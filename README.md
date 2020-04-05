@@ -1,6 +1,6 @@
 # **Advanced Lane Finding**
 
-## Writeup - J. Zhao
+## Project Writeup - J. Zhao
 
 ### 2019/09/29
 
